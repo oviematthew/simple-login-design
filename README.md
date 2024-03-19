@@ -6,4 +6,4 @@
 
 ## Screenshots
 
-<img src="./src/assets/login-page.png" alt="screenshot">
+<img src="./src/assets/login-page.gif" alt="screenshot">
