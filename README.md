@@ -2,8 +2,8 @@
 
 ## Technologies
 
-### React, Tailwind
+### React + Vite, Tailwind
 
-## Screenshots
+## Giv
 
 <img src="./src/assets/login-page.gif" alt="screenshot">
