@@ -4,6 +4,6 @@
 
 ### React + Vite, Tailwind
 
-## Giv
+## Gif
 
 <img src="./src/assets/login-page.gif" alt="screenshot">
